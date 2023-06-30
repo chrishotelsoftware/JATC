@@ -1,0 +1,28 @@
+.hteam{
+    background-image: url('https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80');
+    background-size: cover;
+    overflow-x:hidden ;
+    padding: 40px;
+}
+.ht1{
+    color: gold;
+    font-size: 100px;
+
+}
+.ht2{
+    color: white;
+    font-size: 40px;
+
+}
+.ht_btn{
+    color: white;
+    font-weight: 700;
+    background-color:transparent ;
+    border-color: white;
+    border-radius: 20px;
+    border-width: 3px;
+    font-size: 20px;
+    border-style:inset;
+    padding: 10px;
+margin-left: 20px;
+}
